@@ -1,4 +1,3 @@
 # COMP2101
-echo "Hello world!"
+helloworld.sh
 
-exit
